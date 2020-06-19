@@ -1,0 +1,2 @@
+# equals
+override method equals
